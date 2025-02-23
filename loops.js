@@ -21,12 +21,12 @@
 //ARRAY
 const colors = ["Red", "Blue", "Green"]
 
-// WHAT IS THIS ARRAY CALLED? colors from above string.
-//for (let i = 0; i < colors.length; i++) {
-//    console.log("The current color is:" + colors[i]);
-//    
-//    // you have to acknowledge that the array is a list of colors so you need to  + colors brackets [ add i]
-//}
+ //WHAT IS THIS ARRAY CALLED? colors from above string.
+for (let i = 0; i < colors.length; i++) {
+    console.log("The current color is:" + colors[i]);
+    
+    // you have to acknowledge that the array is a list of colors so you need to  + colors brackets [ add i]
+}
 
 
 
@@ -34,10 +34,11 @@ const colors = ["Red", "Blue", "Green"]
 // FOR LOOP is use for when you know something is ending
 // WHILE LOOP is use when you don't know when something is ending
 
-////WHILE LOOPS
-//while (condition) {
-//    // CODE EXECUTE
-//}
+//WHILE LOOPS
+
+while (condition) {
+  // CODE EXECUTE
+}
 
 
 let count = 5;
